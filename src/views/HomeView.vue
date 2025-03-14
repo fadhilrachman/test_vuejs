@@ -1,10 +1,16 @@
 <script setup lang="ts">
-import Navbar from '../components/Navbar.vue'
 import DataTable from '../components/DataTable.vue'
-import CardSection from '@/components/CardSection.vue'
-import Marquee from '@/components/Marquee.vue'
+
 import Footer from '@/components/Footer.vue'
 import Stepper from '@/components/Stepper.vue'
+// @ts-ignore
+import Navbar from '../components/Navbar.vue'
+
+// @ts-ignore
+import CardSection from '@/components/CardSection.vue'
+
+// @ts-ignore
+import Marquee from '@/components/Marquee.vue'
 // import { Search, ChevronLeft, ChevronRight } from 'lucide-react';
 </script>
 
