@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Gunakan font Muchlish untuk elemen tertentu */
+.muchlish-text {
+  font-family: 'Muchlisch', sans-serif;
+}
